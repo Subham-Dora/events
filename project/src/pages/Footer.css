@@ -1,0 +1,22 @@
+button.footer{
+    background-color: #D53831;
+    color: #FAF9F9;
+    border: none;
+    border-radius: 0px 10px ;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer; 
+}
+a.footer{
+    text-decoration: none;
+    color: #FAF9F9;
+}
+a.footer:hover, a.footer:focus, a.footer:active{
+    color: #D53831;
+}
+i{
+    font-size: 30px;
+    color: #D53831;
+}
